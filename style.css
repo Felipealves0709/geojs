@@ -1,0 +1,17 @@
+body{
+    background-color: #2E8B57;
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+    color:#FFFAFA;
+}
+
+#map {
+    height: 300px;
+    width: 30%;
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+    border-radius: 8px;
+    border-color: black;
+}
